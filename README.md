@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Soy Tomás, estudiante de Ingeniería en Informática e Ingeniería Electrónica en la Universidad de Buenos Aires (FIUBA). Tengo 21 años y soy un entusiasta de la programación y la resolución de problemas desde un enfoque técnico y sistemático.<br><br>Me motiva crecer como desarrollador, aprendiendo de la práctica constante y el trabajo en equipo. Me interesa explorar distintas áreas del desarrollo de software, desde la lógica y el diseño hasta la implementación y el testing, siempre buscando mejorar mis habilidades y entender cómo se construyen soluciones escalables y eficientes.<br><br>Valoro mucho el aprendizaje colaborativo y el intercambio de ideas como herramientas clave para el crecimiento profesional y académico.</p>
+<p align="center">Soy Tomás, estudiante de Ingeniería en Informática e Ingeniería Electrónica en la Universidad de Buenos Aires (FIUBA). Tengo 22 años y soy un entusiasta de la programación y la resolución de problemas desde un enfoque técnico y sistemático.<br><br>Me motiva crecer como desarrollador, aprendiendo de la práctica constante y el trabajo en equipo. Me interesa explorar distintas áreas del desarrollo de software, desde la lógica y el diseño hasta la implementación y el testing, siempre buscando mejorar mis habilidades y entender cómo se construyen soluciones escalables y eficientes.<br><br>Valoro mucho el aprendizaje colaborativo y el intercambio de ideas como herramientas clave para el crecimiento profesional y académico.</p>
 
 ###
 
